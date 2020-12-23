@@ -1,2 +1,2 @@
-# h
-I have 0 Responsibility if you use this mod.
+# Randomises UUID everytime you join.
+I have 0 Responsibility if this mod is used.
