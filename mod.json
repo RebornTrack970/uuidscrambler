@@ -1,6 +1,7 @@
 {
     "name": "Randomised UUID",
-    "version": "[red]RTOmega [purple]& [green]Qmelz",
+    "author": "[#ff]RTOmega [purple]& [green]Qmelz",
+    "description": "A Mindustry Mod that scrambles your uuid.",
     "minGameVersion": "120",
     "hidden": true
 }
